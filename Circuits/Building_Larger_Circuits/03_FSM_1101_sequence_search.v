@@ -28,4 +28,5 @@ module top_module (
     end
     
     assign start_shifting = (state==END);
+    
 endmodule
